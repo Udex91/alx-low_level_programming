@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int char c;
+	char c;
 	char d = '0';
 
 	while (d <= '9')
@@ -20,5 +20,5 @@ int main(void)
 		putchar(c);
 	}
 	putchar('\n');
-return (0);
+	return (0);
 }
