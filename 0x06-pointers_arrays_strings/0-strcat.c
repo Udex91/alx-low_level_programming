@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strcat - append string
+ * _strcat- append string
  * @dest: checked
  * @src: checked
  * Return: dest
